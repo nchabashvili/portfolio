@@ -16,7 +16,7 @@ const useSubmit = () => {
 
     return {
       type: 'success',
-      message: `Thanks for your submission ${data.firstName}, we will get back to you shortly!`,
+      message: `Thanks for your submission ${data.firstName}, I will get back to you shortly!`,
     };
   };
 
